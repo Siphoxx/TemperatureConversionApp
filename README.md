@@ -43,7 +43,7 @@ A simple temperature conversion tool built with JavaScript and HTML
 
 ### User prompted to enter units to be converted
 
-![User prompted to enter units to be converted](images/prompt1.jpg)
+![User prompted to enter units to be converted](images/prompt1.JPG)
 
 ### User inputs K for Kelvin, in this case.
 
@@ -90,4 +90,5 @@ _Not applicable._
 Here's a brief overview of the project:
 
 This temperature conversion tool allows users to convert temperatures between Celsius, Kelvin, and Fahrenheit. The user is prompted to input the current temperature and the desired conversion, and the result is displayed in the console.
+"# TemperatureConversionApp"
 "# TemperatureConversionApp" 
